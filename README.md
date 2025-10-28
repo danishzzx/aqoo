@@ -96,7 +96,7 @@ AQOO will:
 ## 📁 Project Structure
 
 ```
-costrict/
+aqoo/
 ├── index.js                 # Main entry point
 ├── package.json            # Dependencies and scripts
 ├── src/
