@@ -1,0 +1,10 @@
+node_modules/
+*.db
+*.sqlite
+*.sqlite3
+.env
+.DS_Store
+logs/
+*.log
+temp/
+.ssh-keys/
